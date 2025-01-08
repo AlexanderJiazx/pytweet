@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pytweet",                # Your library's name
+    name="pytweet-selenium",                # Your library's name
     version="1.0.0",                  # Version number
     description="Get tweet content using selenium",  # Short description
     long_description=open("README.md").read(),  # Detailed description
