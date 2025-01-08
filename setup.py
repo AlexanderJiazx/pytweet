@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Alexander",               # Your name
     author_email="hellolightning321@gmail.com",
-    url="https://github.com/AlexanderJiazx/Pytweet.git",  # GitHub URL
+    url="https://github.com/AlexanderJiazx/pytweet.git",  # GitHub URL
     packages=find_packages(),         # Automatically find packages
     install_requires=[             # External dependencies
         'selenium',
